@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.6182e3f8.css",
+    "main.js": "/react_upload/static/js/main.9605e34c.js",
+    "static/media/chucknorris.png": "/react_upload/static/media/chucknorris.8cef148e44782b060a5c.png",
+    "index.html": "/react_upload/index.html",
+    "main.6182e3f8.css.map": "/react_upload/static/css/main.6182e3f8.css.map",
+    "main.9605e34c.js.map": "/react_upload/static/js/main.9605e34c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6182e3f8.css",
+    "static/js/main.9605e34c.js"
+  ]
+}
